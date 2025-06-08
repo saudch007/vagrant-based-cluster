@@ -24,7 +24,7 @@ Run : vagrant up
 
 # Double check if everythings working fine
 
-vagrant status
+Run: vagrant status
 
 (Everything should be in running state.)
 
