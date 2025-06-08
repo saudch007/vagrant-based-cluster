@@ -1,6 +1,6 @@
 # Install these
 
-Vagrant
+Vagrant, 
 Virtaul Box
 
 (Remove firewalls if any)
